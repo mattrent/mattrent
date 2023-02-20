@@ -8,7 +8,7 @@ I'm a Ph.D. student in Computer Science and Engineering @ University of Bologna.
 
 - 🌱 Currently learning:
   - π-calculus.
-  - Session types (formalism and implementation).
+  - Session types (formalism and implementations).
   - Reverse-engineering old videogames (emphasis on learning).
 
 - 🔭 Currently researching:
