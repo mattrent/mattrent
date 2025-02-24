@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ph.D. student in Computer Science and Engineering @ University of Bologna.
+I'm a Ph.D. student in Computer Science and Engineering at the University of Bologna and SDU.
 
 - ⚒️ Currently working on:
   - [FunLess](https://funless.dev/) (also [here](https://github.com/funlessdev)), a FaaS platform written in Elixir and based on WebAssembly.
