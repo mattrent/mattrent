@@ -16,6 +16,10 @@ I'm a Ph.D. student in Computer Science and Engineering at the University of Bol
   - Serverless computing in cloud-edge environments.
   - Scheduling optimization in Kubernetes.
 
+- 📫 How to reach me:
+  - matteo.trentin2@unibo.it
+  - trentin@imada.sdu.dk
+
 <!--
 **mattrent/mattrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
