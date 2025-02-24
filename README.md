@@ -7,13 +7,14 @@ I'm a Ph.D. student in Computer Science and Engineering @ University of Bologna.
   - A (very) simple system monitor written in Go with an associated web-based GUI.
 
 - 🌱 Currently learning:
-  - π-calculus.
-  - Session types (formalism and implementations).
+  - Game development with Godot.
+  - Bioinformatics.
   - Reverse-engineering old videogames (emphasis on learning).
 
 - 🔭 Currently researching:
-  - Configuration languages for serverless platforms.
-  - Scheduling optimization in serverless platforms.
+  - Function placement optimization in serverless platforms.
+  - Serverless computing in cloud-edge environments.
+  - Scheduling optimization in Kubernetes.
 
 <!--
 **mattrent/mattrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
